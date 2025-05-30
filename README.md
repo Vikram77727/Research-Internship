@@ -1,2 +1,2 @@
 # Research-Internship
-To learn and do Research Internship
+Step 1 : Python Fundamentals Completed ✓
